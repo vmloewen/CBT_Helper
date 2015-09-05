@@ -1,0 +1,46 @@
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\bin\Debug\App.xbf
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\bin\Debug\Views\NewThoughtRecordPage.xbf
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\bin\Debug\Views\ThoughtRecordDetailsPage.xbf
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\bin\Debug\Views\ThoughtRecordListPage.xbf
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\bin\Debug\CBT Helper.xr.xml
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\bin\Debug\CBT Helper.exe
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\bin\Debug\CBT Helper.pdb
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\bin\Debug\resources.pri
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\bin\Debug\AppxManifest.xml
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\bin\Debug\CBT_Helper.build.appxrecipe
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\App.g.i.cs
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\App.g.cs
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\Views\NewThoughtRecordPage.g.i.cs
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\Views\NewThoughtRecordPage.g.cs
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\Views\ThoughtRecordDetailsPage.g.i.cs
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\Views\ThoughtRecordDetailsPage.g.cs
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\Views\ThoughtRecordListPage.g.i.cs
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\Views\ThoughtRecordListPage.g.cs
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\App.xaml
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\Views\NewThoughtRecordPage.xaml
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\Views\ThoughtRecordDetailsPage.xaml
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\Views\ThoughtRecordListPage.xaml
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\App.xbf
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\Views\NewThoughtRecordPage.xbf
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\Views\ThoughtRecordDetailsPage.xbf
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\Views\ThoughtRecordListPage.xbf
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\CBT Helper.exe
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\CBT Helper.pdb
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\CBT_Helper.csproj.GenerateResource.Cache
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\priconfig.xml
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\priconfig.xml.intermediate
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\layout.resfiles
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\layout.resfiles.intermediate
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\resources.resfiles
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\resources.resfiles.intermediate
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\pri.resfiles
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\pri.resfiles.intermediate
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\qualifiers.txt
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\ProjectArchitectures.txt
+C:\Users\Victoria\Documents\Visual Studio 2013\Projects\CBT_Helper\CBT_Helper\obj\Debug\CBT_Helper.csprojResolveAssemblyReference.cache
