@@ -35,7 +35,8 @@ namespace CBT_Helper
         void HardwareButtons_BackPressed(object sender, BackPressedEventArgs e)
         {
             Frame rootFrame = Window.Current.Content as Frame;
-            if (rootFrame != null && rootFrame.CanGoBack)
+            // On the list page, we just want to close out of the app. On the others, we want to go back a page.
+            if (rootFrame != null && rootFrame.CanGoBack && (rootFrame.SourcePageType != typeof(ThoughtRecordListPage)))
             {
                 rootFrame.GoBack();
                 e.Handled = true;
