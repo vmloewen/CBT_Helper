@@ -5,7 +5,7 @@
   <Properties>
     <DisplayName>CBT_Helper</DisplayName>
     <PublisherDisplayName>Victoria</PublisherDisplayName>
-    <Logo>Assets\StoreLogo.png</Logo>
+    <Logo>Assets\thoughtBubble50x50.png</Logo>
   </Properties>
   <Prerequisites>
     <OSMinVersion>6.3.1</OSMinVersion>
@@ -16,10 +16,13 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="CBT_Helper.App">
-      <m3:VisualElements DisplayName="CBT Helper" Square150x150Logo="Assets\Logo.png" Square44x44Logo="Assets\SmallLogo.png" Description="CBT Helper provides a convenient way to track your Thought Records, without needing a paper and pencil." ForegroundText="light" BackgroundColor="transparent">
-        <m3:DefaultTile Wide310x150Logo="Assets\WideLogo.png" Square71x71Logo="Assets\Square71x71Logo.png">
+      <m3:VisualElements DisplayName="CBT Helper" Square150x150Logo="Assets\thoughtBubble150x150.png" Square44x44Logo="Assets\thoughtBubble44x44.png" Description="CBT Helper provides a convenient way to track your Thought Records, without needing a paper and pencil." ForegroundText="light" BackgroundColor="transparent">
+        <m3:DefaultTile Wide310x150Logo="Assets\WideLogo.png" Square71x71Logo="Assets\thoughtBubble71x71.png">
+          <m3:ShowNameOnTiles>
+            <m3:ShowOn Tile="square150x150Logo" />
+          </m3:ShowNameOnTiles>
         </m3:DefaultTile>
-        <m3:SplashScreen Image="Assets\SplashScreen.png" />
+        <m3:SplashScreen Image="Assets\SplashScreen480x800.png" BackgroundColor="transparent" />
       </m3:VisualElements>
     </Application>
   </Applications>
