@@ -38,6 +38,7 @@ namespace CBT_Helper
         /// This parameter is typically used to configure the page.</param>
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
+            detailsPageDataBinding.DataContext = null; // if this line isn't here, then the data won't be updated on this page when edited
             detailsPageDataBinding.DataContext = (ThoughtRecord)e.Parameter;
             // TODO: Prepare page for display here.
 
