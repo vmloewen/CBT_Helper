@@ -31,10 +31,10 @@
                 <DatePicker Header="Date" Name="datePicker" Grid.Row="0"/>
                 <TimePicker Header="Time" Name="timePicker" Grid.Row="1" Time="{Binding Time}"/>
                 <TextBox TextWrapping="Wrap" AcceptsReturn="True" Height="150" Name="situationTextBox" Header="Situation" Grid.Row="2" Text="{Binding Situation}"/>
-                <TextBox TextWrapping="Wrap" AcceptsReturn="True" Height="100" Name="feelingsTextBox" Header="Feelings" Grid.Row="3" Text="{Binding Feelings}"/>
+                <TextBox TextWrapping="Wrap" AcceptsReturn="True" Height="150" Name="feelingsTextBox" Header="Feelings" Grid.Row="3" Text="{Binding Feelings}"/>
                 <TextBox TextWrapping="Wrap" AcceptsReturn="True" Height="150" Name="thoughtsTextBox" Header="Thoughts" Grid.Row="4" Text="{Binding Thoughts}"/>
-                <TextBox TextWrapping="Wrap" AcceptsReturn="True" Height="100" Name="underlyingThoughtsTextBox" Header="Underlying Thoughts" Grid.Row="5" Text="{Binding UnderlyingThoughts}"/>
-                <TextBox TextWrapping="Wrap" AcceptsReturn="True" Height="100" Name="replacementThoughtsTextBox" Header="Replacement Thoughts" Grid.Row="6" Text="{Binding ReplacementThoughts}"/>
+                <TextBox TextWrapping="Wrap" AcceptsReturn="True" Height="150" Name="underlyingThoughtsTextBox" Header="Underlying Thoughts" Grid.Row="5" Text="{Binding UnderlyingThoughts}"/>
+                <TextBox TextWrapping="Wrap" AcceptsReturn="True" Height="150" Name="replacementThoughtsTextBox" Header="Replacement Thoughts" Grid.Row="6" Text="{Binding ReplacementThoughts}"/>
                 </Grid>
         </ScrollViewer>
     </Grid>

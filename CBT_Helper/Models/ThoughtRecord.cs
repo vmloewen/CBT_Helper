@@ -17,7 +17,7 @@ namespace CBT_Helper
                 Day = _dateTimeValue.ToString("MMMM d, yyyy");
                 DayOfMonth = _dateTimeValue.Day.ToString();
                 Time = _dateTimeValue.ToString("h:mm tt");
-                MonthYear = _dateTimeValue.ToString("MM/yyyy");
+                YearMonth = _dateTimeValue.ToString("yyyy/MM");
                 MonthYearFullMonth = _dateTimeValue.ToString("MMMM yyyy");
             }
         }
@@ -31,7 +31,7 @@ namespace CBT_Helper
         public string Time { get; private set; }
 
         // Used to group the list of events
-        public string MonthYear { get; private set; }
+        public string YearMonth { get; private set; }
 
         public string MonthYearFullMonth { get; private set; }
 

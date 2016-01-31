@@ -39,9 +39,8 @@ namespace CBT_Helper
 
         public void ReloadItemsList()
         {
-            // This probably shouldn't have a reference to _controller...
             var result = from item in Controller.Instance.GetThoughtRecords()
-                         group item by new { Id = item.MonthYear, MonthYearFullMonth = item.MonthYearFullMonth }
+                         group item by new { Id = item.YearMonth, MonthYearFullMonth = item.MonthYearFullMonth }
                              into grp
                              orderby grp.Key.Id descending
                              select grp;
